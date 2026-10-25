@@ -1,0 +1,13 @@
+id	length	gc_percent	A	C	G	T	N	other
+Homo_sapiens	628	51.27	139	157	165	167	0	0
+Pan_troglodytes	628	51.43	139	158	165	166	0	0
+Pan_paniscus	628	51.59	139	159	165	165	0	0
+Gorilla_gorilla	628	51.43	140	158	165	165	0	0
+Pongo_pygmaeus	628	51.27	138	154	168	168	0	0
+Pongo_abelii	628	51.27	138	154	168	168	0	0
+Symphalangus_syndactylus	628	51.75	138	157	168	165	0	0
+Nomascus_leucogenys	628	52.07	137	158	169	164	0	0
+Hylobates_moloch	628	51.43	141	158	165	164	0	0
+Rhinopithecus_roxellana	629	51.51	140	155	169	165	0	0
+Carlito_syrichta	622	52.73	138	165	163	156	0	0
+Nycticebus_coucang	622	53.70	139	167	167	149	0	0
